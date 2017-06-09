@@ -29,25 +29,50 @@ Windows 7 or 10
 
 ### Shedule (in Hours)
 
-#### Part I (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
-
+#### Part I (8:00-12:00 & 2:00-4:00 (Lab)
 ```
-1. Introduction to the Course, Syllabus, Self Introduction   
-1. Introduction to Basic Concepts
-1. Magic Square 
-1. Enumerate Notes and Chords (in CV)
+1. Introduction to the Course, Syllabus, Self Introduction and open discussion  
+1. Introduction to Basic Combinatorial Computing Concepts (encoding, Set, ascii coding, alphabet) ICCDA slides  
+1. Review Basic Programming Skills  
+1. Magic Square, Enumerate Notes and Chords (in CV)
 1. Lab (Magic Square and Music)
 ```
-#### Part II (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
+#### Part II (8:00-12:00 & 2:00-4:00 (Lab)
+```
+1. Introduction to Basic Combinatorial Computing Concepts (continue): Enumeration, the sum rule, the product rule, permutations, combinations, Pigeonhole principle, the Inclusion-Exclusion principle, equivalence class, canonical form  
+1. Classical Combinatorial Computing Basic Algorithms, recursion, bruteforce, backtracking, (Knowledge Map)
+1. Sequences, sets, lists, Searching, Sorting
+1. Substring, Suffix Arrays
+1. Lab (Suffix Array)
+```
+
+#### Part III (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
+```
+1. Introduction to Trees and Graphs  
+1. Visualization in PPT
+1. 
+1. Lab (Generate trees and graphs, Tree Mining)
+
+
+#### Part VI (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
+```
+1. Introduction to Combinatorial Games (Go, Chess, TicTacToe, Connect 4, Searching Algorithms)
+1. MCST algorithm
+1. Visualization in PPT
+1. 
+1. Lab (Refactoring 15-puzzle, )
 
 ```
-1. Introduction to the Course, Syllabus, Self Introduction   
-1. Introduction to Basic Concepts
-1. Magic Square 
-1. Enumerate Notes and Chords (in CV)
-1. Lab (Magic Square and Music)
-```
 
+#### Part V (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
+```
+1. 24 points game 
+MCST algorithm
+1. Visualization in PPT
+1. 
+1. Lab (Refactoring 15-puzzle, )
+
+```
 
 
 ## Built With
