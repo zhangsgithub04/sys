@@ -5,7 +5,7 @@ Have Fun!
 ## Course Description
 Computational methods for discrete mathematical structures. Topics include representation of integers, sets, and graphs; counting and enumeration techniques; sorting and searching methods; and graph algorithms.
 
-##Course Objectives and Outcomes
+## Course Objectives and Outcomes
 The objectives of the course are three-fold.
 * Item The first goal is to review the fundamental concepts of combinatorics.  
 * Item The second goal, also the primary goal, is to help students developing understanding of the classical computing algorithms that are involved in moderately difficult application problems where combinatorial patterns and behaviors dominate the complexities of the problem. 
@@ -49,17 +49,17 @@ Windows 7 or 10
 #### Part III (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
 ```
 1. Introduction to Trees and Graphs  
-1. Visualization in PPT
-1. 
+1. Tree Search, Comparision and Growing
+1. Graph Algorithms ()
+1. Graph Visualization and generator 
 1. Lab (Generate trees and graphs, Tree Mining)
-
 
 #### Part VI (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
 ```
 1. Introduction to Combinatorial Games (Go, Chess, TicTacToe, Connect 4, Searching Algorithms)
+1. MinMax, Alpha Beta Pruning
 1. MCST algorithm
 1. Visualization in PPT
-1. 
 1. Lab (Refactoring 15-puzzle, )
 
 ```
@@ -67,11 +67,11 @@ Windows 7 or 10
 #### Part V (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
 ```
 1. 24 points game 
-MCST algorithm
-1. Visualization in PPT
-1. 
-1. Lab (Refactoring 15-puzzle, )
-
+1. Visualization in PPPT 
+1. Lab (project
+1. Lab (project)
+1. Final (open)
+1. Final (open)
 ```
 
 
