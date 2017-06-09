@@ -34,11 +34,21 @@ Windows 7 or 10
 ```
 1. Introduction to the Course, Syllabus, Self Introduction   
 1. Introduction to Basic Concepts
-1. 
+1. Magic Square 
+1. Enumerate Notes and Chords (in CV)
+1. Lab (Magic Square and Music)
+```
+#### Part II (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
+
+```
+1. Introduction to the Course, Syllabus, Self Introduction   
+1. Introduction to Basic Concepts
+1. Magic Square 
+1. Enumerate Notes and Chords (in CV)
+1. Lab (Magic Square and Music)
 ```
 
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
