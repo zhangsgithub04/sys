@@ -1,12 +1,15 @@
-# Summer Course: Combinatorial Computing July 10 - 14, 2017)
+# Combinatorial Computing
 
 Have Fun!
 
 ## Course Description
-???
-### Prerequisites
+Computational methods for discrete mathematical structures. Topics include representation of integers, sets, and graphs; counting and enumeration techniques; sorting and searching methods; and graph algorithms.
 
-#### What software you need to install the software and how to install them
+### Prerequisites
+Data Structures, Discrete Math
+
+#### What software you need to install the software
+MSVC, Intellij, Python, and possibly R (to be decided later)
 
 ```
 Give examples
