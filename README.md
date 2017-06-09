@@ -9,51 +9,25 @@ Computational methods for discrete mathematical structures. Topics include repre
 Data Structures, Discrete Math
 
 #### What software you need to install the software
-MSVC, Intellij, Python, and possibly R (to be decided later)
+MSVC for C++ and C#, Intellij, Python, and possibly R (to be decided later)
 
 ```
-Give examples
+Windows 7 or 10
 ```
 
-### Installing
+### Syllabus
 
-A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+### Shedule
 
-```
-Give the example
-```
 
-And repeat
+#### Part I
 
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+1: Introduction to the Course, Syllabus 
 
 ```
-Give an example
-```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
 
 Add additional notes about how to deploy this on a live system
 
@@ -73,7 +47,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **S Zhang** - *Initial work* - [online teaching](https://github.com/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
