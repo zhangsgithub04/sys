@@ -43,7 +43,7 @@ Windows 7 or 10
 1. Classical Combinatorial Computing Basic Algorithms, recursion, bruteforce, backtracking, (Knowledge Map)
 1. Sequences, sets, lists, Searching, Sorting
 1. Substring, Suffix Arrays
-1. Lab (Suffix Array)
+1. Lab (Word Scrambling, MD5, Suffix Array)
 ```
 
 #### Part III (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
@@ -59,20 +59,32 @@ Windows 7 or 10
 1. Introduction to Combinatorial Games (Go, Chess, TicTacToe, Connect 4, Searching Algorithms)
 1. MinMax, Alpha Beta Pruning
 1. MCST algorithm
-1. Visualization in PPT
-1. Lab (Refactoring 15-puzzle, )
+1. Visualization in PPT in C#
+1. Lab (Visualization, Refactoring 15-puzzle, )
 
 ```
-
 #### Part V (8:00-12:00 (4 hours) 2:00-4:00 (Lab)
 ```
 1. 24 points game 
-1. Visualization in PPPT 
+1. Visualization in PPT in Java
 1. Lab (project
 1. Lab (project)
 1. Final (open)
 1. Final (open)
 ```
+
+### Lab and Homework
+Lab 1.1 Magic Square
+Lab 1.2 Music notes to wave file
+
+Lab 7.1: Visualization in PPT in C#
+
+Lab 7.2: Visualization in PPT in Java
+
+
+### Final Exam Qeuestions (To be Finalized)
+
+
 
 
 ## Built With
