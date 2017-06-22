@@ -1,5 +1,8 @@
-# Combinatorial Computing (Syllabus)
 
+# Combinatorial Computing (Syllabus)
+##about writing
+Parts of building needs to have connections (glue together or weights)
+##
 Have Fun!
 
 ## Course Description
