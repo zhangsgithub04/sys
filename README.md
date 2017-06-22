@@ -1,6 +1,6 @@
 
 # Combinatorial Computing (Syllabus)
-##about writing
+## About writing
 Parts of building needs to have connections (glue together or weights)
 ##
 Have Fun!
