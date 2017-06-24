@@ -2,7 +2,7 @@
 ## Concept:  Warm up 
 ## Objectives: Set up the tone of the course. 
 ## Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
-## tasks:
+## A list of tasks, materials and activities:
 ### Welcome letter
 ### self instruction 
 ### syllabus
