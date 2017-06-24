@@ -19,9 +19,9 @@
 ## Concepts: 
 ### Basic Combinatorial Concepts
 ### Basic Combinatorial Computing Techniques
-## 
+## Instructiom Components: the sequence of events that will take place as the lesson is delivered. the instructional inout and guided practice.
 ## Common sets: pictures, ppts
-## Lead-in questions: 
+## Lead-in questions (or reviewing previously taught lessons)
 
 
 # Lesson Plan Hour 3
