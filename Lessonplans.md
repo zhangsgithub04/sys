@@ -7,6 +7,19 @@
 ## Concept:  Warm up, build a sense of community
 ## Objectives: Sets the tone of the rest of the term and the course
 ## Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
+## Taking care of Administrative Tasks
+### Write the course name and number on the board
+### Take Attendance. Call the roll or ask students to sign in
+### Mention department course policies an campus policies on academic honesty. Safety, emergency issues
+### Hand out and discuss the course syllabus
+### Discuss the use of the textbook
+### Explain the procedures
+### Review any prerequisites
+### Setting My expectations
+### Introduce myself
+### Introduce yourself
+### break students into pairs
+
 ## A list of tasks, materials and activities:
 ### Welcome remarks
 ### self instruction 
@@ -14,6 +27,8 @@
 ### Provide basic information, such as logistics etc.
 ### syllabus, general learning goals or objectivies
 ### Clarify the general questions
+
+
 
 # Lesson Plan Hour 2
 ## Concepts: 
