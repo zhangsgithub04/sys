@@ -19,6 +19,8 @@
 ### Introduce myself
 ### Introduce yourself
 ### break students into pairs
+### Course calendar and schedule
+### How you are going to be evaluated and how grades will be assigned.
 
 ## A list of tasks, materials and activities:
 ### Welcome remarks
@@ -27,7 +29,6 @@
 ### Provide basic information, such as logistics etc.
 ### syllabus, general learning goals or objectivies
 ### Clarify the general questions
-
 
 
 # Lesson Plan Hour 2
