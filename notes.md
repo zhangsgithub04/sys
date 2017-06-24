@@ -17,7 +17,8 @@
 ## spark their intellectual curiosity
 ## encourage active involvement, participation, questions,
 ## administrative task vs. substantive 
-## make the time worthwhile
+## make the time worthwhile, content well organized and paced
+
 
 
 
