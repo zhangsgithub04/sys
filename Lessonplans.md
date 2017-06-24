@@ -4,7 +4,7 @@
 # Copies of materials
 
 # Lesson Plan Hour 1
-## Concept:  Warm up 
+## Concept:  Warm up, build a sense of community
 ## Objectives: Sets the tone of the rest of the term and the course
 ## Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
 ## A list of tasks, materials and activities:
