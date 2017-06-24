@@ -1,0 +1,18 @@
+# Lesson Plan Hour 1
+## Concept:  Warm up 
+## Objectives: Set up the tone of the course. 
+## Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
+## tasks:
+### Welcome letter
+### self instruction 
+### syllabus
+
+## Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
+
+
+# Lesson Plan Hour 32: Closure Statement
+
+
+
+# Evaluation
+## Problems 
