@@ -49,16 +49,25 @@
 ## Objectives: allow students to practice the skill or extend the knowledge on their own 
 
 ## Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
-# July 13th
 
-## Lesson Plan Hour 31 Closure Statement, summary wrap up the discussion.
-## Lesson Plan Hour 32 (Lab hour 10) Visualization using PPT 
+# July 13th
+## Morning
+### Lesson Plan Hour 25 Sorting
+### Lesson Plan Hour 26 Trie, Suffix Tree, Suffix Array Construction Algorithms
+### Lesson Plan Hour 27 Burrow Wheeler, Inverse Sort 
+### Lesson Plan Hour 28 (Lab Hour 7) Suffix Array
+
+## Afternoon 
+### Lesson Plan Hour 29 Algorithm Visualization in PPT, in C#, weakness: Interaction 
+### Lesson Plan Hour 30 Algorithm Visualization in PPT, in Java
+### Lesson Plan Hour 31 Closure Statement, summary wrap up the discussion.
+### Lesson Plan Hour 32 (Lab hour 8) Visualization using PPT, add block comments, refactoring ... pair programming 
 
 # July 14th
-## Lesson Plan Hour 33: Final Exam 
-## Lesson Plan Hour 34: Final Exam
-## Lesson Plan Hour 35 (Lab Hour 10): 24 points related assignment project 
-## Lesson Plan Hour 36: (Lab Hour 11): 24 points related assignment project
+## Morning 
+### Lesson Plan Hour 33, 34: Final Exam (Open Book) 
+#### Dynamic Programming,  
+### Lesson Plan Hour 35, 36 (Lab Hour 9, 10): 24 points related assignment project 
 
 # Evaluation
 ## Problems 
