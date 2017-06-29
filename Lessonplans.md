@@ -66,7 +66,10 @@
 # July 14th
 ## Morning 
 ### Lesson Plan Hour 33, 34: Final Exam (Open Book) 
-#### Magic Square, Connect-4, TicTacToe, Dynamic Programming,  
+#### Magic Square, Connect-4, TicTacToe, Dynamic Programming, 
+##### How many different 3*3 Magic Squares are there?
+##### 
+
 ### Lesson Plan Hour 35, 36 (Lab Hour 9, 10): 24 points related assignment project 
 
 # Evaluation
