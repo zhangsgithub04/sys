@@ -7,6 +7,7 @@
 ## Lesson Plan Hour 1
 ### Concept:  Warm up, build a sense of community
 ### Objectives: Sets the tone of the rest of the term and the course
+#### Discover how to apply counting principles and combinatorics to solve problems in computer science.
 ### Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
 ### Taking care of Administrative Tasks
 #### Write the course name and number on the board
@@ -49,6 +50,24 @@
 ## Objectives: allow students to practice the skill or extend the knowledge on their own 
 
 ## Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
+
+# July 11th
+## 
+
+
+# July 12th
+## Morning 
+### Lesson Plan Hour 17
+### Lesson Plan Hour 18
+### Lesson Plan Hour 19
+### Lesson Plan Hour 20 (Lab Hour 5) 
+
+## Afternoon
+### Lesson Plan Hour 21 ()
+### Lesson Plan Hour 22 ()
+### Lesson Plan Hour 23 ()
+### Lesson Plan Hour 24 (Lab Hour 6) Go Game 
+ 
 
 # July 13th
 ## Morning
