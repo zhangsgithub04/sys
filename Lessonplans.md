@@ -52,21 +52,21 @@
 
 # July 13th
 ## Morning
-### Lesson Plan Hour 25 Sorting
+### Lesson Plan Hour 25 Searching, Indexing, Sorting, Recursion etc.
 ### Lesson Plan Hour 26 Trie, Suffix Tree, Suffix Array Construction Algorithms
 ### Lesson Plan Hour 27 Burrow Wheeler, Inverse Sort 
 ### Lesson Plan Hour 28 (Lab Hour 7) Suffix Array
 
 ## Afternoon 
-### Lesson Plan Hour 29 Algorithm Visualization in PPT, in C#, weakness: Interaction 
-### Lesson Plan Hour 30 Algorithm Visualization in PPT, in Java
+### Lesson Plan Hour 29 Algorithm Visualization in PPT, in C# and Java, weakness: Interaction 
+### Lesson Plan Hour 30 24 points Game
 ### Lesson Plan Hour 31 Closure Statement, summary wrap up the discussion.
 ### Lesson Plan Hour 32 (Lab hour 8) Visualization using PPT, add block comments, refactoring ... pair programming 
 
 # July 14th
 ## Morning 
 ### Lesson Plan Hour 33, 34: Final Exam (Open Book) 
-#### Dynamic Programming,  
+#### Magic Square, Connect-4, TicTacToe, Dynamic Programming,  
 ### Lesson Plan Hour 35, 36 (Lab Hour 9, 10): 24 points related assignment project 
 
 # Evaluation
