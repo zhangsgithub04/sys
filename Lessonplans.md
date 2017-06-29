@@ -45,9 +45,10 @@
 ### Lesson Plan Hour 3
 #### Magic Square
 
-### Lesson Plan Hour 4 (Lab hour 1)
-#### Lab Independent Practice. Magic Square
+### Lesson Plan Hour 4 (Lab hour 1)  Independent Practice & Pair Programming, Homwork and Lab 
 #### Objectives: allow students to practice the skill or extend the knowledge on their own 
+#### Magic Square 
+#### Word Scrambling 
 
 ## Afternoon
 ### Lesson Plan Hour 5 MD5 Rainbow attack 
