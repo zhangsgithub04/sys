@@ -2,8 +2,10 @@
 # Visit the classroom. Locate and figure out how to use the facilities
 # Make sure a computer, HDMI etc. on podium 
 # Copies of materials
+# Meet with TA 
 
-# July 10
+# July 10th
+## Morning
 ## Lesson Plan Hour 1
 ### Concept:  Warm up, build a sense of community
 ### Objectives: Sets the tone of the rest of the term and the course
@@ -45,27 +47,42 @@
 ## Lesson Plan Hour 3
 ### 
 
-# Lesson Plan Hour 4
+### Lesson Plan Hour 4 (Lab hour 1)
 ## Lab Independent Practice. 
 ## Objectives: allow students to practice the skill or extend the knowledge on their own 
-
 ## Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
 
+
+## Afternoon
+### Lesson Plan Hour 16 MD5 Rainbow attack 
+### Lesson Plan Hour 16 Music 
+### Lesson Plan Hour 16 Magic Square
+### Lesson Plan Hour 12 (Lab Hour 2)
+
 # July 11th
-## 
+## Morning
+### Lesson Plan Hour 16 Tree
+### Lesson Plan Hour 16 Tree
+### Lesson Plan Hour 16 Tree
+### Lesson Plan Hour 12 (Lab Hour 3)
+## Afternoon
+### Lesson Plan Hour 13 Graph
+### Lesson Plan Hour 14 Graph
+### Lesson Plan Hour 15 Graph
+### Lesson Plan Hour 16 (lab Hour 4), Graph
 
 
 # July 12th
 ## Morning 
-### Lesson Plan Hour 17
-### Lesson Plan Hour 18
-### Lesson Plan Hour 19
-### Lesson Plan Hour 20 (Lab Hour 5) 
+### Lesson Plan Hour 17 Search,
+### Lesson Plan Hour 18 A*
+### Lesson Plan Hour 19 
+### Lesson Plan Hour 20 (Lab Hour 5)  Refactor 15-Puzzle  
 
 ## Afternoon
-### Lesson Plan Hour 21 ()
-### Lesson Plan Hour 22 ()
-### Lesson Plan Hour 23 ()
+### Lesson Plan Hour 21 MinMax, TicTacToe
+### Lesson Plan Hour 22 AlphaBeta
+### Lesson Plan Hour 23 Connect-4, Go
 ### Lesson Plan Hour 24 (Lab Hour 6) Go Game 
  
 
