@@ -1,69 +1,67 @@
 # July 9th
-# Visit the classroom. Locate and figure out how to use the facilities
-# Make sure a computer, HDMI etc. on podium 
-# Copies of materials
-# Meet with TA 
+## Visit the classroom. Locate and check the facilities
+## Make sure a computer, HDMI etc. on podium 
+## Copies of materials
+## Meet with TA 
 
 # July 10th
 ## Morning
-## Lesson Plan Hour 1
-### Concept:  Warm up, build a sense of community
-### Objectives: Sets the tone of the rest of the term and the course
-#### Discover how to apply counting principles and combinatorics to solve problems in computer science.
-### Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
-### Taking care of Administrative Tasks
-#### Write the course name and number on the board
-#### Take Attendance. Call the roll or ask students to sign in
-#### Mention department course policies an campus policies on academic honesty. Safety, emergency issues
-#### Hand out and discuss the course syllabus
-#### Discuss the use of the textbook
-#### Explain the procedures
-#### Review any prerequisites
-#### Setting My expectations
-#### Introduce myself
-#### Introduce yourself
-#### break students into pairs
-#### Course calendar and schedule
-#### How you are going to be evaluated and how grades will be assigned.
+### Lesson Plan Hour 1
+#### Concept:  Warm up, build a sense of community
+#### Objectives: Sets the tone of the rest of the term and the course
+##### Discover how to apply counting principles and combinatorics to solve problems in computer science.
+#### Rationale: A good start is half of success. It is important to take a combinatorial view toward many non trivial problems and solve them using computing methods.
+#### Taking care of Administrative Tasks
+##### Write the course name and number on the board
+##### Take Attendance. Call the roll or ask students to sign in
+##### Mention department course policies an campus policies on academic honesty. Safety, emergency issues
+##### Hand out and discuss the course syllabus
+##### Discuss the use of the textbook
+##### Explain the procedures
+##### Review any prerequisites
+##### Setting My expectations
+##### Introduce myself
+##### Introduce yourself
+##### break students into pairs
+##### Course calendar and schedule
+##### How you are going to be evaluated and how grades will be assigned.
 
-### A list of tasks, materials and activities:
-#### Welcome remarks
-#### self instruction 
-#### Give an overview of the course's purpose
-#### Provide basic information, such as logistics etc.
-#### syllabus, general learning goals or objectivies
-#### Clarify the general questions
+#### A list of tasks, materials and activities:
+##### Welcome remarks
+##### self instruction 
+##### Give an overview of the course's purpose
+##### Provide basic information, such as logistics etc.
+##### syllabus, general learning goals or objectivies
+##### Clarify the general questions
 
+### Lesson Plan Hour 2
+#### Concepts: 
+##### Basic Combinatorial Concepts
+##### Basic Combinatorial Computing Techniques
+#### Instructiom Components: the sequence of events that will take place as the lesson is delivered. the instructional inout and guided practice.
+#### Common sets: pictures, ppts
+#### Lead-in questions (or reviewing previously taught lessons)
 
-## Lesson Plan Hour 2
-### Concepts: 
-#### Basic Combinatorial Concepts
-#### Basic Combinatorial Computing Techniques
-### Instructiom Components: the sequence of events that will take place as the lesson is delivered. the instructional inout and guided practice.
-### Common sets: pictures, ppts
-### Lead-in questions (or reviewing previously taught lessons)
-
-
-## Lesson Plan Hour 3
-### 
+### Lesson Plan Hour 3
+#### Magic Square
 
 ### Lesson Plan Hour 4 (Lab hour 1)
-## Lab Independent Practice. 
-## Objectives: allow students to practice the skill or extend the knowledge on their own 
-## Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
-
+#### Lab Independent Practice. Magic Square
+#### Objectives: allow students to practice the skill or extend the knowledge on their own 
 
 ## Afternoon
-### Lesson Plan Hour 16 MD5 Rainbow attack 
-### Lesson Plan Hour 16 Music 
-### Lesson Plan Hour 16 Magic Square
-### Lesson Plan Hour 12 (Lab Hour 2)
+### Lesson Plan Hour 5 MD5 Rainbow attack 
+### Lesson Plan Hour 6 Music 
+### Lesson Plan Hour 7 
+#### Basic Concepts, randomization, counting, enumeration, permutation, combination, powerset, recursion, backtrack, ....
+#### Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
+### Lesson Plan Hour 8 (Lab Hour 2) Dynamic Programming, Music 
 
 # July 11th
 ## Morning
-### Lesson Plan Hour 16 Tree
-### Lesson Plan Hour 16 Tree
-### Lesson Plan Hour 16 Tree
+### Lesson Plan Hour 9 Tree
+### Lesson Plan Hour 10 Tree
+### Lesson Plan Hour 11 Tree
 ### Lesson Plan Hour 12 (Lab Hour 3)
 ## Afternoon
 ### Lesson Plan Hour 13 Graph
