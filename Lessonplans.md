@@ -44,38 +44,37 @@
 
 ### Lesson Plan Hour 3
 #### Magic Square
-
 ### Lesson Plan Hour 4 (Lab hour 1)  Independent Practice & Pair Programming, Homwork and Lab 
 #### Objectives: allow students to practice the skill or extend the knowledge on their own 
 #### Magic Square 
 #### Word Scrambling 
 
 ## Afternoon
-### Lesson Plan Hour 5 MD5 Rainbow attack 
-### Lesson Plan Hour 6 Music 
-### Lesson Plan Hour 7 
+### Lesson Plan Hour 5 
 #### Basic Concepts, randomization, counting, enumeration, permutation, combination, powerset, recursion, backtrack, ....
 #### Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
+### Lesson Plan Hour 6 Music 
+### Lesson Plan Hour 7 MD5 Rainbow attack 
 ### Lesson Plan Hour 8 (Lab Hour 2) Dynamic Programming, Music 
 
 # July 11th
 ## Morning
-### Lesson Plan Hour 9 Tree
+### Lesson Plan Hour 9 Sequence Alignment, Dynamic Programming
 ### Lesson Plan Hour 10 Tree
 ### Lesson Plan Hour 11 Tree
-### Lesson Plan Hour 12 (Lab Hour 3)
+### Lesson Plan Hour 12 (Lab Hour 3)  Unit Test, Dynamic Programming, Tree Parsing
 ## Afternoon
-### Lesson Plan Hour 13 Graph
-### Lesson Plan Hour 14 Graph
-### Lesson Plan Hour 15 Graph
-### Lesson Plan Hour 16 (lab Hour 4), Graph
+### Lesson Plan Hour 13 Graph  Graph Mining General 
+### Lesson Plan Hour 14 Graph  General Embedded Graphs
+### Lesson Plan Hour 15 Graph  Induced Subgraphs
+### Lesson Plan Hour 16 (lab Hour 4), Graph, Compatible Graphs
 
 
 # July 12th
 ## Morning 
 ### Lesson Plan Hour 17 Search,
 ### Lesson Plan Hour 18 A*
-### Lesson Plan Hour 19 
+### Lesson Plan Hour 19 A*
 ### Lesson Plan Hour 20 (Lab Hour 5)  Refactor 15-Puzzle  
 
 ## Afternoon
@@ -96,7 +95,8 @@
 ### Lesson Plan Hour 29 Algorithm Visualization in PPT, in C# and Java, weakness: Interaction 
 ### Lesson Plan Hour 30 24 points Game
 ### Lesson Plan Hour 31 Closure Statement, summary wrap up the discussion.
-### Lesson Plan Hour 32 (Lab hour 8) Visualization using PPT, add block comments, refactoring ... pair programming 
+### Lesson Plan Hour 32 (Lab hour 8) Visualization using PPT, add block comments, refactoring ... pair programming
+Visualizing Neural Network
 
 # July 14th
 ## Morning 
