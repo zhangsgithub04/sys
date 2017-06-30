@@ -111,3 +111,21 @@ Visualizing Neural Network
 
 # Evaluation
 ## Problems 
+The Android imposes these conditions on patterns:
+Each pattern must connect at least four dots.
+The dots in the pattern must all be distinct.
+If the line segment connecting any two consecutive dots in the pattern passes through any other dots, the other dots must have 
+
+previously been in the pattern.
+Under these conditions, you can create 389112 distinct patterns, as computed with the following Haskell program:
+
+This number is confirmed by Adam J. Aviv, Katherine Gibson, Evan Mossop, Matt Blaze, Jonathan M. Smith, “Smudge attracks on 
+
+smartphone touch screens”, in Proc. 4th USENIX WOOT, Aug. 9, 2010, pp. 1–7:
+Due to the intermediate contact point restriction, the password space of the Android password pattern contains 389,112 possible 
+
+patterns⁴.
+⁴ Due to the complexity of the intermediate contact point restriction, we calculated this result via brute force methods.
+
+
+https://www.quora.com/Android-operating-system-How-many-combinations-does-Android-9-point-unlock-have
