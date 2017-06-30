@@ -48,6 +48,8 @@
 #### Objectives: allow students to practice the skill or extend the knowledge on their own 
 #### Magic Square 
 #### Word Scrambling 
+https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/
+
 
 ## Afternoon
 ### Lesson Plan Hour 5 
