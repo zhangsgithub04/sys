@@ -112,6 +112,11 @@ Visualizing Neural Network
 
 ### Lesson Plan Hour 35, 36 (Lab Hour 9, 10): 24 points related assignment project 
 
+# Backup Topic
+## Assignment Problem
+## TSM
+## Phylogenetic Trees
+
 # Evaluation
 ## Problems 
 The Android imposes these conditions on patterns:
