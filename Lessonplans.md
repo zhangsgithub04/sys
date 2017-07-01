@@ -56,15 +56,15 @@ https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/
 #### Basic Concepts, randomization, counting, enumeration, permutation, combination, powerset, recursion, backtrack, ....
 #### Summary: Today, we learned about ... it is important for us to ... because the word is additive and multiplicative (due to parallel and multi dimsensions) ...
 ### Lesson Plan Hour 6 Music 
-### Lesson Plan Hour 7 MD5 Rainbow attack 
-### Lesson Plan Hour 8 (Lab Hour 2) Dynamic Programming, Music 
+### Lesson Plan Hour 7 MD5  
+### Lesson Plan Hour 8 (Lab Hour 2) MD5, Music 
 
 # July 11th
 ## Morning
 ### Lesson Plan Hour 9 Sequence Alignment, Dynamic Programming
 ### Lesson Plan Hour 10 Tree
 ### Lesson Plan Hour 11 Tree
-### Lesson Plan Hour 12 (Lab Hour 3)  Unit Test, Dynamic Programming, Tree Parsing
+### Lesson Plan Hour 12 (Lab Hour 3)  Unit Testing, Dynamic Programming, Tree Parsing
 ## Afternoon
 ### Lesson Plan Hour 13 Graph  Graph Mining General 
 ### Lesson Plan Hour 14 Graph  General Embedded Graphs
