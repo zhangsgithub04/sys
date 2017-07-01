@@ -117,6 +117,9 @@ Visualizing Neural Network
 ## Assignment Problem
 ## TSM
 ## Phylogenetic Trees
+## Automata
+## clustering algorithm
+## decision trees
 
 # Evaluation
 ## Problems 
