@@ -3,6 +3,7 @@
 ## Make sure a computer, HDMI etc. on podium 
 ## Copies of materials
 ## Meet with TA 
+## Merge notes
 
 # July 10th
 ## Morning
